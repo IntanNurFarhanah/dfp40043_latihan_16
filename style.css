@@ -25,6 +25,7 @@
 .col {
     width: 33%;
     float: left;
+    padding: 10px;
 }
 
 .isi {
@@ -34,6 +35,28 @@
     font-weight: bold;
     font-size: 14pt;
     cursor: pointer;
+    text-align: left;
+}
+
+.gambar-pay {
+    background-image: url('img/image1.png');
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.gambar-reload {
+    background-image: url('img/image2.png');
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.gambar-addon {
+    background-image: url('img/image3.png');
+    background-size: 100px;
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
 
